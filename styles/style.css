@@ -1,0 +1,139 @@
+body{
+    background-color: cadetblue
+} 
+
+h1{ 
+background-color: darkgrey
+} 
+
+h2 {
+background-color: aliceblue
+} 
+
+main{ 
+background-color: darkcyan
+font-size: 1.2em;
+width: 80%; 
+margin:auto;
+border: 2px solid grey; 
+}  
+ 
+head{ 
+margin: auto;
+} 
+
+nav ul{
+    list-style-type: none; 
+} 
+
+h1{ 
+font-family: cursive; 
+    text-align: center; 
+    color: white
+}   
+
+li {
+    border: 1px solid black; 
+    border-style: dashed
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nav ul{
+    list-style-type: none; 
+} 
+
+nav ul li{ 
+float: left; 
+    margin-right: 0.5cm;
+} 
+
+nav ulli a{ 
+padding: 0.25cm 1cm; 
+    text-decoration: none;/*no underlining*/ 
+    background-color: #EBFSFF;/* pale bluish white*/ 
+    color: #4312AE;/* dark blue */
+border: 2px solid black; 
+border-top-left-radius: 1cm 1cm; /*rounded corner!*/ 
+border-top-right-radius: 1cm 1cm; /*another rounded corner!*/
+} 
+
+nav ul li a:hover, nav u li a: focus { 
+color: red; 
+background-color: white; 
+font-weight: bold;  
+} 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
