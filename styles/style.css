@@ -1,21 +1,23 @@
 body{
-    background-color: cadetblue
+    background-color: 
+    
 } 
 
 h1{ 
-background-color: darkgrey
+background-color: rebeccapurple;
+   font-family: 'Dancing Script', cursive; 
 } 
 
 h2 {
-background-color: aliceblue
+background-color:palevioletred
 } 
 
 main{ 
-background-color: darkcyan
+background-color: 
 font-size: 1.2em;
 width: 80%; 
 margin:auto;
-border: 2px solid grey; 
+border: 2px solid orange; 
 }  
  
 head{ 
@@ -35,6 +37,7 @@ font-family: cursive;
 li {
     border: 1px solid black; 
     border-style: dashed
+        
 } 
 
 

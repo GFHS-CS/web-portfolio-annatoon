@@ -1,0 +1,33 @@
+<style> 
+.my-container img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0.6;
+} 
+
+h3{
+    font-family: 'Playfair Display', serif;
+}
+
+h1{
+            font-family: 'Playfair Display', serif;
+} 
+
+
+p{
+     font-family:'Playfair Display', serif;
+    font-size: 15px;
+} 
+
+
+h3{
+    font-family: 'Merriweather', serif;
+} 
+
+
+adventure{
+    color: aq
+}
